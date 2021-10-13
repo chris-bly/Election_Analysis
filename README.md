@@ -11,6 +11,7 @@ A Colorado Board of Elections employee has given you jthe follwing tasks to comp
 
 ## Resources
 -Data Source: election_results.csv
+
 -Software: Python 3.7.6, Visual Stuido Code, 1.61.0
 
 ## Summary
