@@ -25,6 +25,6 @@ The analysis of the election shows that:
   -Diana DeGette received 73.8% of the vote and 272,892 votes.
   -Raymon Anthony Doane received 3.1% of the vote and 11,606 votes.
   
-  ##Challenge Overview
+ ## Challenge Overview
   
-  ##Challenge Summary
+ ## Challenge Summary
