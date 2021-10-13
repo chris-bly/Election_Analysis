@@ -34,9 +34,9 @@ The analysis of the election shows that:
 
  ## Challenge Summary and Results
 The following is an image output of the executed terminal command from the PyPoll_Challenge.py file:
-- https://github.com/chris-bly/Election_Analysis/blob/7ef09d8d9d52710bdaf910e2ad47366f943e4a2d/resources/Terminal%20Output%20from%20PyPoll_Challenge.png
+- ![Terminal output from PyPolls_Challenge Script](https://github.com/chris-bly/Election_Analysis/blob/7ef09d8d9d52710bdaf910e2ad47366f943e4a2d/resources/Terminal%20Output%20from%20PyPoll_Challenge.png)
 The follwing is an image output of the elections_analysis.txt file:
-- https://github.com/chris-bly/Election_Analysis/blob/7ef09d8d9d52710bdaf910e2ad47366f943e4a2d/resources/Text%20File%20Output%20from%20PyPoll_Challenge.png
+- ![.txt file output from PyPolls_Challenge Script](https://github.com/chris-bly/Election_Analysis/blob/7ef09d8d9d52710bdaf910e2ad47366f943e4a2d/resources/Text%20File%20Output%20from%20PyPoll_Challenge.png)
 
 The following outcomes were found from the Challenge analysis:
 - A total of 369,711 votes were case in the congressional election.
